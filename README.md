@@ -28,7 +28,7 @@ A comprehensive, role-based learning management system (LMS) designed for struct
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Sam-Nyalik/learning-management-system.git
    cd workbook-app
    ```
 
