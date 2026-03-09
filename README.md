@@ -20,6 +20,13 @@ A comprehensive, role-based learning management system (LMS) designed for struct
 
 ## Getting Started
 
+
+### Screenshots
+<img width="1470" height="956" alt="Screenshot 2026-03-10 at 00 10 25" src="https://github.com/user-attachments/assets/0632dea8-c7b5-49b2-bc1a-2aa2f36548b0" />
+<img width="1470" height="956" alt="Screenshot 2026-03-10 at 00 10 47" src="https://github.com/user-attachments/assets/38353927-68e7-4607-a494-a94c1f30ba33" />
+<img width="1470" height="956" alt="Screenshot 2026-03-10 at 00 11 43" src="https://github.com/user-attachments/assets/c686c921-2eca-417e-84aa-fc413bd48b94" />
+
+
 ### Prerequisites
 - Python 3.9+
 - PostgreSQL (running locally or remotely)
